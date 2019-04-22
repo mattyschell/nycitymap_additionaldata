@@ -1,4 +1,5 @@
-In preparatiomn for a possible archive to NYC Open Data, this is (mostly speculative) info on NYCityMap "Additional Data" sources.
+In preparatiomn for a possible archive to NYC Open Data, this is a (mostly speculative) inventory of the 
+"Additional Data" sources on NYCityMap.
 
 http://maps.nyc.gov/doitt/nycitymap/
 
@@ -33,7 +34,7 @@ http://maps.nyc.gov/doitt/nycitymap/
 
 | Layer | NYCityMap Service | Source Agency | Data Update Frequency Guess |
 | --- | --- | --- | --- |
-| Broadband Technology and Opportunities Programs | DoITT GEO Geoserver | Unknwon | Unknown |
+| Broadband Technology and Opportunities Programs | DoITT GEO Geoserver | Unknown | Unknown |
 | TWC Learning Lab | DoITT GEO Geoserver | DoITT Franchise and Telecom | As Needed |
 | Business Improvement District | DoITT GEO Geoserver | DoITT GIS and Small Business Services | As Needed |
 | Empire Zone | DoITT GEO Geoserver | New York City Economic Development Corporation & New York State | As Needed |
@@ -97,7 +98,7 @@ http://maps.nyc.gov/doitt/nycitymap/
 | Census Tract | DoITT GEO Geoserver | Department of City Planning | As Needed |
 | City Council District | DoITT GEO Geoserver | Department of City Planning | As Needed |
 | Community District | DoITT GEO Geoserver | Department of City Planning | As Needed |
-| Congressional District | DoITT GEO Geoserver Department of City Planning | As Needed |
+| Congressional District | DoITT GEO Geoserver | Department of City Planning | As Needed |
 | Election District | DoITT GEO Geoserver | NYC Board of Elections | Annually |
 | Fire Battalion | DoITT GEO Geoserver | Fire Dept. of NY | As Needed |
 | Fire Company | DoITT GEO Geoserver | Fire Dept. of NY | As Needed |
@@ -126,8 +127,8 @@ http://maps.nyc.gov/doitt/nycitymap/
 | Layer | NYCityMap Service | Source Agency | Data Update Frequency Guess |
 | --- | --- | --- | --- |
 | Day Care Center | DoITT GEO Geoserver | Dept. of City Planning | As Needed |
-| Homeless Services - Homebase | DoITT GEO Geoserver | Unknown | As Needed |
-| Homeless Services - Law Project | DoITT GEO Geoserver | Unknown | As Needed |
+| Homeless Services - Homebase | DoITT GEO Geoserver | Unknown | Unknown |
+| Homeless Services - Law Project | DoITT GEO Geoserver | Unknown | Unknown |
 | Hospital | DoITT GEO Geoserver | DoITT GIS | As Needed |
 | Library | DoITT GEO Geoserver | DoITT GIS | As Needed |
 | Post Office | DoITT GEO Geoserver | DoITT GIS | As Needed |
@@ -170,23 +171,38 @@ http://maps.nyc.gov/doitt/nycitymap/
 
 | Layer | NYCityMap Service | Source Agency | Data Update Frequency Guess |
 | --- | --- | --- | --- |
-| Airport |  |  |  |
-| AirTrain JFK |  |  |  |
-| Bicycle Parking |  |  |  |
-| DOT Truck Route |  |  |  |
-| Ferry Terminal |  |  |  |
-| Long Island Rail Road |  |  |  |
-| Metro North Railroad |  |  |  |
-| Municipal Garage |  |  |  |
-| New Jersey Transit |  |  |  |
-| Off-Street Parking |  |  |  |
-| PATH |  |  |  |
-| Staten Island Railway |  |  |  |
-| Subway |  |  |  |
-| Subway Station Entrance |  |  |  |
-| Traffic Camera |  |  |  |
+| Airport | DoITT GEO Geoserver | DoITT GIS | As Needed |
+| AirTrain JFK | DoITT GEO Geoserver | DoITT GIS | As Needed |
+| Bicycle Parking | DoITT GEO Geoserver | NYC Department of Transportation | As Needed |
+| DOT Truck Route | DoITT GEO Geoserver | NYC Department of Transportation | Approximately every 4 years |
+| Ferry Terminal | DoITT GEO Geoserver | DoITT GIS | As Needed |
+| Long Island Rail Road | DoITT GEO Geoserver | Metropolitan Transportation Authority | As Needed |
+| Metro North Railroad | DoITT GEO Geoserver | Metropolitan Transportation Authority | As Needed |
+| Municipal Garage | DoITT GEO Geoserver | Department of City Planning | As Needed |
+| New Jersey Transit | DoITT GEO Geoserver | DoITT GIS | As Needed |
+| Off-Street Parking | DoITT GEO Geoserver | Department of City Planning | As Needed |
+| PATH | DoITT GEO Geoserver | Port Authority of NY and NJ | As Needed |
+| Staten Island Railway | DoITT GEO Geoserver | DoITT GIS | As Needed |
+| Subway | DoITT GEO Geoserver | DoITT GIS | As Needed |
+| Subway Station Entrance | DoITT GEO Geoserver | DoITT GIS | As Needed |
+| Traffic Camera | DoITT GEO Geoserver | NYC Department of Transportation | As Needed |
+
 
 ### Water Quality
 
+| Layer | NYCityMap Service | Source Agency | Data Update Frequency Guess |
+| --- | --- | --- | --- |
+| Best Usage Classification | DoITT GEO Geoserver | Unknown | Unknown |
+| Combined Sewer Overflow Outfall | DoITT GEO Geoserver | Unknown | Unknown |
 
 ### Youth Services
+
+| Layer | NYCityMap Service | Source Agency | Data Update Frequency Guess |
+| --- | --- | --- | --- |
+| Fatherhood Initiative | DoITT Geo Geoserver | NYC Department of Youth and Community Development  | As Needed |
+| Literacy Program | DoITT Geo Geoserver | NYC Department of Youth and Community Development  | As Needed |
+| Out-of-School Youth Program | DoITT Geo Geoserver | NYC Department of Youth and Community Development  | As Needed |
+| Runaway and Homeless Youth Center | DoITT Geo Geoserver | NYC Department of Youth and Community Development  | As Needed |
+| Summer Youth Employment Program | DoITT Geo Geoserver | NYC Department of Youth and Community Development  | As Needed |
+| Young Adult Internship Program | DoITT Geo Geoserver | NYC Department of Youth and Community Development  | As Needed |
+
