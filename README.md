@@ -1,4 +1,4 @@
-In preparatiomn for a possible archive to NYC Open Data, this is a (mostly speculative) inventory of the 
+In preparation for a possible archive to NYC Open Data, this is a (mostly speculative) inventory of the 
 "Additional Data" sources on NYCityMap.
 
 http://maps.nyc.gov/doitt/nycitymap/
